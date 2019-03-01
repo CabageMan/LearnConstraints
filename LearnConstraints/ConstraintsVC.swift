@@ -42,6 +42,7 @@ class ConstraintsVC: UIViewController {
             $0.right(to: view, offset: -30)
             $0.bottom(to: view, view.safeAreaLayoutGuide.bottomAnchor)
         }
+        
     }
 }
 
